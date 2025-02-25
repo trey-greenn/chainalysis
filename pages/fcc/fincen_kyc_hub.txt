@@ -1,0 +1,20 @@
+KYC/AML API Hub for FinTechs
+============================
+
+## Market Research:
+The KYC (Know Your Customer) and AML (Anti-Money Laundering) sectors have gained immense importance in the wake of regulatory enforcement and the rising incidence of financial crimes. FinTech companies face a monumental task in complying with KYC and AML regulations to avoid hefty fines, loss of licenses, and reputational damage. To address these challenges, the demand for flexible, easy-to-integrate API solutions has soared, enabling smaller firms to scale without building their own KYC/AML infrastructure from scratch.
+
+According to Allied Market Research, the global anti-money laundering software market is expected to reach $4.5 billion by 2026, growing at a CAGR of 13.6%. With rising adoption of digital banking and cryptocurrency, regulators are tightening their requirements, forcing both startups and traditional financial institutions to update their compliance tools.
+
+The KYC/AML API Hub would offer a centralized platform for FinTechs to integrate multiple compliance features without heavy internal development, reducing costs, and improving agility in managing identity verification, transaction monitoring, and sanction screening. This makes the service appealing not only to small to mid-sized startups but also to larger FinTechs that need specific features or advanced functionality beyond their current offerings.
+
+## Idea:
+The KYC/AML API Hub for FinTechs would be an aggregation of multiple services related to identity verification, customer due diligence, transaction monitoring, and sanctions list screening. The hub would allow FinTech companies to quickly onboard, monitor, and comply with financial crime regulations.
+
+## Business Model:
+The business would operate as a B2B SaaS platform, offering tiered subscriptions based on the API usage and additional premium features such as enhanced analytics, reporting tools, and customizable compliance workflows.
+
+## Example Companies:
+1. https://www.trulioo.com/ - Global ID Verification APIs
+2. https://www.sygna.io/ - Digital Asset Compliance Solutions
+3. https://www.jumio.com/ - Identity Verification & Compliance Services

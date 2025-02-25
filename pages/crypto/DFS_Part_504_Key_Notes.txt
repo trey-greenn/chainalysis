@@ -1,0 +1,15 @@
+1. DFS Part 504 is modeled on the Sarbanes-Oxley Act standards for internal controls and accountability.
+2. Requires financial institutions to maintain BSA/AML transaction monitoring and OFAC filtering programs.
+3. Compliance programs must be aligned with institution-specific risk assessments.
+4. Senior officers or board members must annually certify compliance starting April 15, 2018.
+5. Non-compliant areas must have documented remediation plans.
+6. Applies to both banks and non-bank financial institutions (NBFIs) like money transmitters and check cashers.
+7. OFAC filtering must prevent prohibited transactions with sanctioned entities or countries.
+8. Institutions must perform end-to-end testing of monitoring and filtering programs.
+9. Institutions must regularly update their programs based on regulatory and legal changes.
+10. Data integrity, accuracy, and quality must be validated for transaction monitoring systems.
+11. Governance and oversight are required to ensure program changes are documented, controlled, and audited.
+12. Qualified personnel and consultants must manage, operate, and test these programs.
+13. Protocols must be established for investigating transaction alerts and suspicious activity.
+14. Training for all stakeholders is mandatory, and periodic testing should confirm program efficacy.
+15. Documentation must articulate all assumptions, parameters, and detection scenarios in the programs.
